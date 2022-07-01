@@ -18,7 +18,7 @@ This document does not prescribe:
  
 This document is primarily aimed at subcontractors such as technical consultants, system suppliers, property managers, project developers, purchasers, project managers and installation consultants.
 
-![Architectural overview](https://proptechos.com/wp-content/uploads/2022/06/REC-Architecture-Arc_EN-resized.png)
+![Architectural overview](https://proptechos.com/wp-content/uploads/2022/06/REC-Architecture-Arc_EN.png)
 
 ## How to contribute?
 The RealEstateCore consortium is working on improving the core ontology, adding more modules, and as well is working on making better tools to integrate and use the ontology in smart building platforms and its applications.
